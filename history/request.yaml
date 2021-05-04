@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: CE09OSSM-MFD35-06-PHSEND000-telemetered-phsen_abcdef_dcl_instrument
+last_request: '2021-05-04T22:36:34.278911Z'
+response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-MFD35-06-PHSEND000-telemetered-phsen_abcdef_dcl_instrument/main/history/response.json
+status: pending
